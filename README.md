@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Seren Aitchison 👋
 
 ## 🔬 Bioinformatics & Precision Medicine Enthusiast
 
@@ -59,6 +59,5 @@ I'm passionate about leveraging **data science**, **machine learning**, and **co
 ---
 
 ## 💬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-twitter)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/seren-aitchison-8961741b9/)
+- [Email](mailto:seren.aitchison@gmail.com)
