@@ -53,7 +53,7 @@ I'm passionate about leveraging **data science**, **machine learning**, and **co
 ---
 
 ## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![Seren Aitchison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
 
 ---
